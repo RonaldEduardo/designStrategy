@@ -1,0 +1,17 @@
+{
+    "name": "ronald/strategy",
+    "type": "project",
+    "license": "",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RonaldEduardo",
+            "email": "ronald29eduardo@gmail.com"
+        }
+    ],
+    "require": {}
+}
